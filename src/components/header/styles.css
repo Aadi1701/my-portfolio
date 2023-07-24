@@ -1,0 +1,55 @@
+.container{
+    position: relative;
+    height: 110vh ;
+    background-size: 1000px;
+    background-position: center;
+    
+}
+
+.header-image{
+    height: 460px;
+    width: 100%;
+    object-fit: cover;
+}
+.heading{
+    text-align: center;
+    color:white;
+    font-size: 48px;
+    position: absolute;
+    top: 180px;
+    left: 625px;
+}
+
+/* .about{
+    position: absolute;
+    top: 570px;
+    left: 180px;
+} */
+
+.profile{
+    display: flex;
+    justify-content: center;
+}
+
+.profile-image{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    border: 3px solid white;
+    /* transform: translateY(-52%); */
+    box-shadow: 1px 1px 10px 2px lightgrey;
+}
+
+.about{
+    width: 75%;
+    height: 150px;
+    margin: auto;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 130px;
+}
+
+

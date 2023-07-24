@@ -1,0 +1,23 @@
+.project-images{
+  width: 300px;
+  height: 190px;
+  border-radius: 2px;
+}
+
+.projects-heading{
+  text-align: center;
+  color: #1F6E8C;
+  font-size: 45px;
+  margin: 40px 0;
+}
+
+.projects{
+  width:85%;
+  margin: auto;
+  row-gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}

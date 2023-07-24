@@ -1,0 +1,19 @@
+.navbar-links{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+    padding-top: 20px;
+    margin-top: 0;
+}
+
+.navbar-link{
+    margin-right: 40px;
+    color: black;
+    margin-top: 0;
+}
+
+.navbar-link:hover{
+    cursor: pointer;
+    color: #A1C2F1;
+}
